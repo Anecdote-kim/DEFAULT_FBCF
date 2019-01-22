@@ -66,3 +66,6 @@ node_modules/
 
 # build file
 functions/build/
+
+# DS_STORE
+.DS_STORE
